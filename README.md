@@ -21,19 +21,19 @@
 
 ### Menu Page
 
-![Menu](screenshot1.png)
+
 
 ### Contact Page
 
-![Contact](screenshot2.png)
+
 
 ### Cart Page
 
-![Cart](screenshot3.png)
+
 
 ### Rewards Page
 
-![Rewards](screenshot4.png)
+
 
 ## 🚀 How to Run
 
