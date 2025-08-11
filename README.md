@@ -1,3 +1,10 @@
+---
+
+# 🍔 Foodiezz
+
+**Foodiezz** is a simple food ordering and rewards web application built during my B.Tech first year. It allows users to explore a menu, add items to a cart, register for rewards, and contact the store.
+
+## 📌 Features
 
 * **Menu Page** – Displays a list of food items with images.
 * **Contact Us Page** – Simple form to collect user queries.
@@ -14,19 +21,19 @@
 
 ### Menu Page
 
-
+![Menu](screenshot1.png)
 
 ### Contact Page
 
-
+![Contact](screenshot2.png)
 
 ### Cart Page
 
-
+![Cart](screenshot3.png)
 
 ### Rewards Page
 
-
+![Rewards](screenshot4.png)
 
 ## 🚀 How to Run
 
@@ -38,10 +45,9 @@
 2. Open the project folder.
 3. Run the `index.html` file in a browser.
 
-## 📜 License
 
 This project is for learning purposes only.
 
 ---
 
-Do you want me t
+Do you want me to **also give you a ready “About” section text** so you can just paste it into GitHub without any formatting issues?
